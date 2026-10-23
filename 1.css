@@ -5,7 +5,7 @@
 .c1
 {
     width: 1512px;
-    height: 927px;
+    height: 759px;
     background-color: #F02228;
     max-width: 1512px;
     margin: auto;
@@ -60,4 +60,69 @@ position:absolute;
 padding: 5px;
 left: 475px;
 top: -5px;
+}
+.c8
+{
+    width: 1200px;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+}
+.c9
+{
+    width: 50%;
+    height: 598px;
+}
+.c10
+{
+    width: 533px;
+height: 231px;
+
+font-weight: 800;
+
+font-size: 64px;
+
+color: #FFFFFF;
+padding-top: 76px;
+}
+.c11
+{
+margin-top: 23px;
+
+font-weight: 400;
+
+font-size: 18px;
+width: 525px;
+height: 66px;
+color: #FFFFFF;
+}
+.c12
+{
+    width: 274px;
+    height: 64px;
+    margin-top: 53px;
+    border: 5px solid white;
+    border-radius: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+.c13
+{
+    margin-top: 35px;
+    position: absolute;
+}
+.c14
+{
+    width: 607px;
+    height: 530px;
+    position: relative;
+   top: -800px;
+   left: 50px;
+}
+.c15
+{
+    position: relative;
+    
 }
