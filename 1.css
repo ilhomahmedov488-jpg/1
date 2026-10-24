@@ -351,9 +351,11 @@ color: #FFFFFF;
 
 }
 .c41{
+
     padding-top: 150px;
     width: 1512px;
     max-width: 1512px;
+    margin: auto;
     height: 700px;
     background-color: #F8E7DD;
     display: flex;
