@@ -351,8 +351,21 @@ color: #FFFFFF;
 
 }
 .c41{
+    padding-top: 150px;
     width: 1512px;
     max-width: 1512px;
-    height: 800px;
+    height: 700px;
     background-color: #F8E7DD;
+    display: flex;
+    justify-content: center;
+}
+.c42{
+display: flex;
+width: 50%;
+flex-direction: column;
+align-items: end;
+}
+.c44
+{
+    margin-top: 15px;
 }
